@@ -31,7 +31,7 @@ int main (void) {
        count_at++;
     }
 
-    cout << "Number of activities: " << count_at << endl;
+    cout << count_at << endl;
 
     return 0;
 }
